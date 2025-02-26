@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.swagLabs.utilities.ExtentListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.swagLabs.testCases.TC_001LoginPageTest">
+        <methods>
+          <include name="verify_loginDDT" invocation-numbers="1 3 4 5 6"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.swagLabs.testCases.TC_001LoginPageTest -->
+      <class name="com.swagLabs.testCases.TC_003YourCartPageTest">
+        <methods>
+          <include name="testCheckout"/>
+          <include name="login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.swagLabs.testCases.TC_003YourCartPageTest -->
+      <class name="com.swagLabs.testCases.TC_002InventoryPageTest">
+        <methods>
+          <include name="testSortProducts"/>
+          <include name="setup"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.swagLabs.testCases.TC_002InventoryPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
