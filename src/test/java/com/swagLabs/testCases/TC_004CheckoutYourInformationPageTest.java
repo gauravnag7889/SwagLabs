@@ -1,13 +1,14 @@
 package com.swagLabs.testCases;
 
-import com.swagLabs.baseClass.BaseClassTest;
-import com.swagLabs.pageObjects.CheckoutYourInformationPage;
-import com.swagLabs.pageObjects.LoginPage;
-import com.swagLabs.pageObjects.YourCartPage;
-import com.swagLabs.pageObjects.InventoryPage;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+
+import com.swagLabs.BaseTest.BaseClassTest;
+import com.swagLabs.pageObjects.CheckoutYourInformationPage;
+import com.swagLabs.pageObjects.InventoryPage;
+import com.swagLabs.pageObjects.LoginPage;
+import com.swagLabs.pageObjects.YourCartPage;
 
 public class TC_004CheckoutYourInformationPageTest extends BaseClassTest {
 

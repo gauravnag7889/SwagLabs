@@ -12,6 +12,7 @@
       <class name="com.swagLabs.testCases.TC_003YourCartPageTest"/>
       <class name="com.swagLabs.testCases.TC_004CheckoutYourInformationPageTest"/>
       <class name="com.swagLabs.testCases.TC_005CheckoutOverviewPageTest"/>
+        <class name="com.swagLabs.testCases.TC_006ConfirmationPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

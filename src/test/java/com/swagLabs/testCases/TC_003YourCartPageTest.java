@@ -1,6 +1,7 @@
 package com.swagLabs.testCases;
 
-import com.swagLabs.baseClass.BaseClassTest;
+
+import com.swagLabs.BaseTest.BaseClassTest;
 import com.swagLabs.pageObjects.InventoryPage;
 import com.swagLabs.pageObjects.LoginPage;
 import com.swagLabs.pageObjects.YourCartPage;
@@ -20,18 +21,13 @@ public class TC_003YourCartPageTest extends BaseClassTest {
         loginPage = new LoginPage(driver);
         loginPage.login("standard_user", "secret_sauce");
         logger.info("**  Login successful  **");
-    }
-
-    // Setup method to initialize the InventoryPage and CartPage before each test
-    @Test(priority = 1)
-    public void setUp() {
         logger.info("** Opening Inventory Page and Cart Page **");
         inventoryPage = new InventoryPage(driver);
         cartPage = new YourCartPage(driver);
     }
 
     // Test case to verify adding multiple products to the cart
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void testAddMultipleProductsToCart() {
         logger.info("**  Starting test: testAddMultipleProductsToCart **");
 
@@ -50,7 +46,7 @@ public class TC_003YourCartPageTest extends BaseClassTest {
     }
 
     // Test case to verify checking out from the cart
-    @Test(priority = 4)
+    @Test(priority = 2)
     public void testCheckout() {
         logger.info("**  Starting test: testCheckout **");
 

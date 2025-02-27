@@ -1067,3 +1067,213 @@
 [INFO ] 2025-02-27 20:15:19.657 [main] CaseStudy_2 - ** Starting TC_001Login **
 [INFO ] 2025-02-27 20:15:40.003 [main] CaseStudy_2 - ** Starting TC_001Login **
 [INFO ] 2025-02-27 20:16:00.305 [main] CaseStudy_2 - ** Starting TC_001Login **
+[DEBUG] 2025-02-27 21:39:13.674 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:13.680 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.150 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.152 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.179 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.181 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.219 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.220 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.248 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.250 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.277 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.278 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.303 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.304 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.329 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.332 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.351 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.353 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.373 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.375 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:39:14.397 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:39:14.399 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:46.557 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:46.570 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.058 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.060 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.092 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.093 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.128 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.129 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.161 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.164 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.192 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.193 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.219 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.220 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.243 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.245 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.267 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.268 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.291 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.293 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:40:47.315 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:40:47.316 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-02-27 21:40:47.362 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:40:48.757 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 21:40:48.767 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:41:09.163 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:41:09.701 [main] CaseStudy_2 - ** Finished TC_001Login **
+[DEBUG] 2025-02-27 21:49:09.738 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:09.748 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.160 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.161 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.192 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.195 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.234 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.236 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.262 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.263 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.289 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.290 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.313 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.315 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.339 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.340 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.365 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.367 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.389 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.390 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:49:10.412 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:49:10.415 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-02-27 21:49:10.461 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:49:11.229 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 21:49:11.237 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:49:31.682 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:49:32.206 [main] CaseStudy_2 - ** Finished TC_001Login **
+[DEBUG] 2025-02-27 21:51:41.323 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.328 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.713 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.714 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.739 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.740 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.772 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.773 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.799 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.800 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.822 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.825 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.845 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.846 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.869 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.870 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.888 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.889 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.907 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.909 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:51:41.928 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:51:41.930 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-02-27 21:51:41.961 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:51:42.693 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 21:51:42.701 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:52:03.102 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:52:03.609 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 21:56:20.319 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 21:56:20.692 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 21:56:20.692 [main] CaseStudy_2 - ** Opening InventoryPage  **
+[INFO ] 2025-02-27 21:56:20.737 [main] CaseStudy_2 - **  Starting test: testPageTitleIsDisplayed  **
+[INFO ] 2025-02-27 21:56:20.783 [main] CaseStudy_2 - ** Test Passed: Inventory page title is displayed.  **
+[INFO ] 2025-02-27 21:56:20.788 [main] CaseStudy_2 - **  Starting test: testAddMultipleProductsToCart **
+[INFO ] 2025-02-27 21:56:20.788 [main] CaseStudy_2 - **  Adding product: Sauce Labs Bike Light to cart **
+[INFO ] 2025-02-27 21:56:21.017 [main] CaseStudy_2 - **  Adding product: Sauce Labs Bolt T-Shirt to cart **
+[INFO ] 2025-02-27 21:56:21.209 [main] CaseStudy_2 - **  Adding product: Test.allTheThings() T-Shirt (Red) to cart **
+[INFO ] 2025-02-27 21:56:21.559 [main] CaseStudy_2 - **  Test Passed: Multiple products were successfully added to the cart. **
+[INFO ] 2025-02-27 21:57:39.211 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 21:57:39.595 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 21:57:39.596 [main] CaseStudy_2 - ** Opening InventoryPage  **
+[INFO ] 2025-02-27 21:57:39.618 [main] CaseStudy_2 - **  Starting test: testPageTitleIsDisplayed  **
+[INFO ] 2025-02-27 21:57:39.656 [main] CaseStudy_2 - ** Test Passed: Inventory page title is displayed.  **
+[INFO ] 2025-02-27 21:57:39.662 [main] CaseStudy_2 - **  Starting test: testAddMultipleProductsToCart **
+[INFO ] 2025-02-27 21:57:39.664 [main] CaseStudy_2 - **  Adding product: Sauce Labs Bike Light to cart **
+[INFO ] 2025-02-27 21:57:39.875 [main] CaseStudy_2 - **  Adding product: Sauce Labs Bolt T-Shirt to cart **
+[INFO ] 2025-02-27 21:57:40.074 [main] CaseStudy_2 - **  Adding product: Test.allTheThings() T-Shirt (Red) to cart **
+[INFO ] 2025-02-27 21:57:40.350 [main] CaseStudy_2 - **  Test Passed: Multiple products were successfully added to the cart. **
+[DEBUG] 2025-02-27 21:59:53.585 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:53.591 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:53.997 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:53.999 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.027 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.028 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.062 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.064 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.088 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.089 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.112 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.114 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.135 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.135 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.154 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.155 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.170 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.172 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.195 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.197 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 21:59:54.213 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 21:59:54.214 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-02-27 21:59:54.248 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 21:59:54.901 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 21:59:54.921 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 22:00:15.403 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 22:00:15.918 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 22:00:19.035 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:00:19.397 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:00:19.398 [main] CaseStudy_2 - ** Opening InventoryPage  **
+[INFO ] 2025-02-27 22:00:19.411 [main] CaseStudy_2 - **  Starting test: testPageTitleIsDisplayed  **
+[INFO ] 2025-02-27 22:00:19.447 [main] CaseStudy_2 - ** Test Passed: Inventory page title is displayed.  **
+[INFO ] 2025-02-27 22:00:19.460 [main] CaseStudy_2 - **  Starting test: testAddMultipleProductsToCart **
+[INFO ] 2025-02-27 22:00:19.461 [main] CaseStudy_2 - **  Adding product: Sauce Labs Bike Light to cart **
+[INFO ] 2025-02-27 22:00:19.673 [main] CaseStudy_2 - **  Adding product: Sauce Labs Bolt T-Shirt to cart **
+[INFO ] 2025-02-27 22:00:19.871 [main] CaseStudy_2 - **  Adding product: Test.allTheThings() T-Shirt (Red) to cart **
+[INFO ] 2025-02-27 22:00:20.175 [main] CaseStudy_2 - **  Test Passed: Multiple products were successfully added to the cart. **
+[INFO ] 2025-02-27 22:00:23.187 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:00:23.537 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:00:23.537 [main] CaseStudy_2 - ** Opening Inventory Page and Cart Page **
+[INFO ] 2025-02-27 22:00:23.570 [main] CaseStudy_2 - **  Starting test: testAddMultipleProductsToCart **
+[INFO ] 2025-02-27 22:00:24.026 [main] CaseStudy_2 - ** Test Passed: Multiple products were successfully added to the cart **
+[INFO ] 2025-02-27 22:00:24.029 [main] CaseStudy_2 - **  Starting test: testCheckout **
+[INFO ] 2025-02-27 22:00:47.101 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:00:47.454 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:00:47.855 [main] CaseStudy_2 - **  Starting test: testCheckOutPageHeading  **
+[INFO ] 2025-02-27 22:00:47.895 [main] CaseStudy_2 - ** Test Passed: Checkout page heading is correct. **
+[INFO ] 2025-02-27 22:00:47.897 [main] CaseStudy_2 - **  Starting test: testFillCheckoutFormAndContinue  **
+[INFO ] 2025-02-27 22:00:48.204 [main] CaseStudy_2 - ** Test Passed: Successfully navigated to the next step of checkout. **
+[INFO ] 2025-02-27 22:00:52.282 [main] CaseStudy_2 - ** Starting test: testPriceTotal **
+[INFO ] 2025-02-27 22:00:52.302 [main] CaseStudy_2 - Item Total: 45.98
+[INFO ] 2025-02-27 22:00:52.320 [main] CaseStudy_2 - Tax: 3.68
+[INFO ] 2025-02-27 22:00:52.338 [main] CaseStudy_2 - Total Amount: 49.66
+[INFO ] 2025-02-27 22:00:52.338 [main] CaseStudy_2 - ** Test Passed: Price total is correct. Item Total + Tax = Total Amount **
+[INFO ] 2025-02-27 22:02:34.972 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:02:35.360 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:02:35.762 [main] CaseStudy_2 - **  Starting test: testFillCheckoutFormAndContinue  **
+[INFO ] 2025-02-27 22:02:36.056 [main] CaseStudy_2 - ** Test Passed: Successfully navigated to the next step of checkout. **
+[INFO ] 2025-02-27 22:04:09.485 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:04:09.859 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:04:10.256 [main] CaseStudy_2 - **  Starting test: testFillCheckoutFormAndContinue  **
+[INFO ] 2025-02-27 22:04:10.553 [main] CaseStudy_2 - ** Test Passed: Successfully navigated to the next step of checkout. **
+[INFO ] 2025-02-27 22:04:33.929 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:04:34.385 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:04:34.805 [main] CaseStudy_2 - **  Starting test: testCheckOutPageHeading  **
+[INFO ] 2025-02-27 22:04:34.835 [main] CaseStudy_2 - ** Test Passed: Checkout page heading is correct. **
+[INFO ] 2025-02-27 22:08:36.547 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:08:36.939 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:08:37.369 [main] CaseStudy_2 - **  Starting test: testCheckOutPageHeading  **
+[INFO ] 2025-02-27 22:08:37.399 [main] CaseStudy_2 - ** Test Passed: Checkout page heading is correct. **
+[INFO ] 2025-02-27 22:09:47.712 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:09:48.139 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:09:48.563 [main] CaseStudy_2 - **  Starting test: testCheckOutPageHeading  **
+[INFO ] 2025-02-27 22:09:48.594 [main] CaseStudy_2 - ** Test Passed: Checkout page heading is correct. **
+[INFO ] 2025-02-27 22:09:48.600 [main] CaseStudy_2 - **  Starting test: testFillCheckoutFormAndContinue  **
+[INFO ] 2025-02-27 22:09:48.873 [main] CaseStudy_2 - ** Test Passed: Successfully navigated to the next step of checkout. **
+[INFO ] 2025-02-27 22:11:11.670 [main] CaseStudy_2 - ** Starting test: testPriceTotal **
+[INFO ] 2025-02-27 22:11:11.699 [main] CaseStudy_2 - Item Total: 45.98
+[INFO ] 2025-02-27 22:11:11.721 [main] CaseStudy_2 - Tax: 3.68
+[INFO ] 2025-02-27 22:11:11.744 [main] CaseStudy_2 - Total Amount: 49.66
+[INFO ] 2025-02-27 22:11:11.746 [main] CaseStudy_2 - ** Test Passed: Price total is correct. Item Total + Tax = Total Amount **
+[INFO ] 2025-02-27 22:12:59.980 [main] CaseStudy_2 - **  Logging in with valid credentials  **
+[INFO ] 2025-02-27 22:13:00.344 [main] CaseStudy_2 - **  Login successful  **
+[INFO ] 2025-02-27 22:13:00.344 [main] CaseStudy_2 - ** Opening Inventory Page and Cart Page **
+[INFO ] 2025-02-27 22:13:00.378 [main] CaseStudy_2 - **  Starting test: testAddMultipleProductsToCart **
+[INFO ] 2025-02-27 22:13:00.816 [main] CaseStudy_2 - ** Test Passed: Multiple products were successfully added to the cart **
+[INFO ] 2025-02-27 22:13:00.822 [main] CaseStudy_2 - **  Starting test: testCheckout **

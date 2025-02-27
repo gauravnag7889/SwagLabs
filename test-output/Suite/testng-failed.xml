@@ -6,16 +6,10 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.swagLabs.testCases.TC_002InventoryPageTest">
-        <methods>
-          <include name="testSortProducts"/>
-          <include name="setup"/>
-          <include name="login"/>
-        </methods>
-      </class> <!-- com.swagLabs.testCases.TC_002InventoryPageTest -->
       <class name="com.swagLabs.testCases.TC_001LoginPageTest">
         <methods>
-          <include name="verify_loginDDT" invocation-numbers="1 3 4 5 6"/>
+          <include name="verifyLoginWithDDT" invocation-numbers="1"/>
+          <include name="tearDown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.swagLabs.testCases.TC_001LoginPageTest -->
@@ -23,6 +17,7 @@
         <methods>
           <include name="testCheckout"/>
           <include name="login"/>
+          <include name="tearDown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.swagLabs.testCases.TC_003YourCartPageTest -->

@@ -1,4 +1,4 @@
-package com.swagLabs.baseClass;
+package com.swagLabs.BaseTest;
 
 import java.time.Duration;
 
@@ -61,10 +61,10 @@ public class BaseClassTest {
 		logger = LogManager.getLogger("CaseStudy_2");
 	}
 
-	@AfterClass
-	public void tearDown() {
-		driver.close();
-		driver.quit();
-	}
+//	@AfterClass
+//	public void tearDown() {
+//		driver.close();
+//		driver.quit();
+//	}
 
 }

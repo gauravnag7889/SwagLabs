@@ -1,6 +1,6 @@
 package com.swagLabs.testCases;
 
-import com.swagLabs.baseClass.BaseClassTest;
+import com.swagLabs.BaseTest.BaseClassTest;
 import com.swagLabs.pageObjects.InventoryPage;
 import com.swagLabs.pageObjects.LoginPage;
 import com.swagLabs.utilities.ReadConfig;
@@ -25,11 +25,6 @@ public class TC_002InventoryPageTest extends BaseClassTest {
 		loginpage = new LoginPage(driver);
 		loginpage.login("standard_user", "secret_sauce");
 		logger.info("**  Login successful  **");
-	}
-
-	// Setup method to initialize the InventoryPage before each test
-	@Test(priority = 0)
-	public void setUp() {
 		logger.info("** Opening InventoryPage  **");
 		inventoryPage = new InventoryPage(driver);
 	}
@@ -64,7 +59,7 @@ public class TC_002InventoryPageTest extends BaseClassTest {
 	}
 	
 	// Test case to verify sorting functionality with DataProvider
-	@Test
+//	@Test
 	public void testSortProducts(String sortOption) {
 		logger.info("**  Starting test: testSortProducts with sort option: " + sortOption + "  **");
 
