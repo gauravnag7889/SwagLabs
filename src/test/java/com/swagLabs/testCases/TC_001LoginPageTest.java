@@ -2,55 +2,59 @@ package com.swagLabs.testCases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import com.swagLabs.baseClass.BaseClassTest;
 import com.swagLabs.pageObjects.BasePage;
 import com.swagLabs.pageObjects.InventoryPage;
 import com.swagLabs.pageObjects.LoginPage;
 
 public class TC_001LoginPageTest extends BaseClassTest {
-	public LoginPage loginpage;
-	public InventoryPage inventorypage;
-	public BasePage basepage;
+
+	private LoginPage loginPage;
+	private InventoryPage inventoryPage;
+	private BasePage basePage;
 
 	@Test(dataProvider = "LoginTestData", dataProviderClass = com.swagLabs.utilities.DataProviders.class)
-	public void verify_loginDDT(String uName, String password, String result) {
-		logger.info("**  Starting TC_001Login  **");
+	public void verifyLoginWithDDT(String username, String password, String expectedResult) {
+		logger.info("** Starting TC_001Login **");
 
 		try {
+			// Initialize Page Objects
+			loginPage = new LoginPage(driver);
+			inventoryPage = new InventoryPage(driver);
+			basePage = new BasePage(driver);
 
-			// LoginPage
-			loginpage = new LoginPage(driver);
-			Assert.assertEquals(true, loginpage.isLogoDisplayed(), "Swag labs logo missing");
-			loginpage.login(uName, password);
-			// inventory page
-			inventorypage = new InventoryPage(driver);
-			Boolean inventorypage_status = inventorypage.pageTitleIsDisplayed();
-			// BasePage 
-			basepage = new BasePage(driver);
-			if (result.equalsIgnoreCase("Valid")) {
-				if (inventorypage_status == true) {
-					basepage.getLogout();
-					Assert.assertTrue(true);
+			// Validate Swag Labs Logo on Login Page
+			Assert.assertTrue(loginPage.isLogoDisplayed(), "Swag Labs logo is missing");
+
+			// Perform login
+			loginPage.login(username, password);
+
+			// Verify if Inventory page is displayed
+			boolean isInventoryPageDisplayed = inventoryPage.pageTitleIsDisplayed();
+
+			// Validate based on the expected result
+			if ("Valid".equalsIgnoreCase(expectedResult)) {
+				if (isInventoryPageDisplayed) {
+					basePage.getLogout();
+					Assert.assertTrue(true, "Login successful and user logged out.");
 				} else {
-					loginpage.closeErrorMessage();
-					Assert.assertTrue(false);
+					loginPage.closeErrorMessage();
+					Assert.fail("Inventory page not displayed after valid login.");
 				}
-			}
-
-			if (result.equalsIgnoreCase("Invalid")) {
-				if (inventorypage_status == true) {
-					basepage.getLogout();
-					Assert.assertTrue(false);
+			} else if ("Invalid".equalsIgnoreCase(expectedResult)) {
+				if (isInventoryPageDisplayed) {
+					basePage.getLogout();
+					Assert.fail("Inventory page displayed despite invalid login.");
 				} else {
-					loginpage.closeErrorMessage();
-					Assert.assertTrue(true);
+					loginPage.closeErrorMessage();
+					Assert.assertTrue(true, "Error message displayed for invalid login.");
 				}
 			}
 		} catch (Exception e) {
 			Assert.fail("An exception occurred: " + e.getMessage());
 		}
 
-		logger.info("**  Finished TC_001Login  **");
+		logger.info("** Finished TC_001Login **");
 	}
+
 }

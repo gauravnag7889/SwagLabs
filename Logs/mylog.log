@@ -1012,3 +1012,58 @@
 [INFO ] 2025-02-26 20:14:58.283 [main] CaseStudy_2 - Tax: 3.68
 [INFO ] 2025-02-26 20:14:58.303 [main] CaseStudy_2 - Total Amount: 49.66
 [INFO ] 2025-02-26 20:14:58.303 [main] CaseStudy_2 - ** Test Passed: Price total is correct. Item Total + Tax = Total Amount **
+[DEBUG] 2025-02-27 20:14:36.035 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.047 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.542 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.544 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.577 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.578 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.608 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.609 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.636 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.637 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.663 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.664 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.689 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.690 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.710 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.711 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.732 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.733 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.752 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.753 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.774 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.775 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.796 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.797 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.822 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.843 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.845 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.866 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.868 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.888 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.889 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:36.912 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:36.913 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:37.011 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:37.012 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:37.116 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:37.117 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:37.145 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:37.146 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:37.173 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:37.175 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:37.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:37.205 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-02-27 20:14:37.244 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-02-27 20:14:37.245 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-02-27 20:14:37.293 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 20:14:38.320 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 20:14:38.332 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 20:14:58.816 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 20:14:59.333 [main] CaseStudy_2 - ** Finished TC_001Login **
+[INFO ] 2025-02-27 20:14:59.336 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 20:15:19.657 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 20:15:40.003 [main] CaseStudy_2 - ** Starting TC_001Login **
+[INFO ] 2025-02-27 20:16:00.305 [main] CaseStudy_2 - ** Starting TC_001Login **
